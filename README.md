@@ -1,3 +1,12 @@
+Kelompok: Victory
+
+Anggota:
+
+Putri Rahayu Damayanti (103012400277)
+Najla Tsabita Afiyah (103012400305)
+Putri Ayu Lestari (103012430055)
+Aplikasi ini membahas perbandingan kompleksitas waktu algoritma rekursif dan iteratif dalam menyelesaikan masalah optimasi nilai jual material batang. Perbandingan iteratif dan rekursif dilakukan melalui analisis kompleksitas waktu dan pengujian waktu eksekusi pada berbagai ukuran input.
+
 # tubes_aka
 
 A new Flutter project.
